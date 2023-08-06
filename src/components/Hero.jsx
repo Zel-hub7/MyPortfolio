@@ -19,14 +19,13 @@ const Hero = () => {
             Hi, I'm <span className="text-[#915eff]">Zelalem</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            <span className="text-[#915eff]">I'm a software Developer</span> <br /> I can help you build a product , feature or
-            website Look through some of my work and experience! If you like
-            what you see and have a project you need coded, don’t hesitate to
-            contact me.
+            <span className="text-[#915eff]">I'm a software Developer</span> <br /> I develop Full Stack Web Apps and Mobile Apps
+           
           </p>
         </div>
-        <ComputersCanvas />
+       
       </div>
+      <ComputersCanvas />
     </section>
   );
 };
