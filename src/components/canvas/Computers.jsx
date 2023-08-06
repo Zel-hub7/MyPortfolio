@@ -9,6 +9,12 @@ const Computers = () => {
     <mesh>
       <hemisphereLight intensity={1.9} groundColor="black" />
       <pointLight intensity={10} />
+      <spotLight 
+        position={[-20,60,10]}
+        angle={0.12}
+        penumbra={1}
+        intensity={10}
+        />
       <primitive object={computer.scene}
                 scale = {0.75}
                 position = {[0, -4.2, -1.5]}
