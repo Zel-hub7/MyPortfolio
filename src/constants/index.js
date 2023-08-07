@@ -198,45 +198,46 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Dish Catalogue Api",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Meal app - A web app that displays an array of meals from our API. Users can leave comments, share their recipes, and savor the diverse flavors from around the globe.",
+
     tags: [
       {
-        name: "react",
+        name: "Javascript",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Rest API",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "css",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: "https://github.com/Zel-hub7/DishCatalog-API/blob/dev/meal.png?raw=true",
+    source_code_link: "https://zel-hub7.github.io/DishCatalog-API/dist/",
   },
   {
-    name: "Job IT",
+    name: "African Tech Congress",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A comprehensive Tech congress Web application where various developers and tech people from whole africa interact and schedule their meeting.",
     tags: [
       {
-        name: "react",
+        name: "HTML",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Css",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Figma",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: "https://github.com/Zel-hub7/Capstone-project1/raw/master/Img/desktop.png",
     source_code_link: "https://github.com/",
   },
   {
