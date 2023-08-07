@@ -1,9 +1,10 @@
+![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+
+
 <a name="readme-top"></a>
 
 <div align = "center">
-   <img src = './IMG/port.png'>
-   <img src = './IMG/port2.png'>
-   <img src = './IMG/port3.png'>
+ 
  
   <br/>
 
