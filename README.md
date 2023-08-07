@@ -35,10 +35,10 @@
 
 
 
-# 📖 [Personal--Portfolio] <a name="about-project"></a>
+# 📖 Personal--Portfolio <a name="about-project"></a>
 
-This is my personal portfolio site where You can see every detail you want to know about me and list of projects done.</p>
-After going through the study material (covering; semantics of HTML5, linters, CSS3, figma, grid, gitflow and flexbox) I applied my knowledge to build a PORTFOLIO repository.
+This is my personal portfolio site where You can see every detail you want to know about me and list of projects done.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
