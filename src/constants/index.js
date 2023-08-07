@@ -241,16 +241,16 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Dictionary App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    "Discover, learn, and pronounce words effortlessly with our comprehensive dictionary app. Access detailed definitions and listen to correct pronunciations to enrich your language skills.",
     tags: [
       {
-        name: "nextjs",
+        name: "Javascript",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Api",
         color: "green-text-gradient",
       },
       {
@@ -258,8 +258,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: 'https://github.com/Zel-hub7/Dictionary-App/blob/main/original.png?raw=true',
+    source_code_link: "https://zel-hub7.github.io/Dictionary-App//",
   },
 ];
 
