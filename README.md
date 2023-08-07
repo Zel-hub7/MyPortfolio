@@ -43,11 +43,9 @@ After going through the study material (covering; semantics of HTML5, linters, C
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-1. Linters
-2. HTML5
-3. cSS3
-4. Figma
-
+1. React
+2. Three JS
+3. Tailwind Css
 ### Key Features <a name="key-features"></a>
 1. Portfolio Showcase: Explore my latest and best projects, showcasing diverse skills and talents.
 2. About Me: Learn about my background, passion for design, and the value I bring to projects.
@@ -80,7 +78,7 @@ npx stylelint "*/.{css,scss}"
 
 You can deploy this project using:
 
-1. Github pages
+1. Netlify
 
 
 
@@ -99,19 +97,7 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## 🔭 Future Features <a name="future-features">
-1. [Setting up mobile and desktop versions]
-2. [Application deploy]
-3. [Preserve data in the browser(pair programming)]
-
 </a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Mobile version of my portfolio]**
-- [ ] **[Desktop version of my portfolio]**
-- [ ] **[Keep it responsive]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,8 +121,7 @@ If you like this project you can contact me via my contact address and rate it.
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank all the microverse team and my coding partners.
+I would like to thank everybody that created those 3D designs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
