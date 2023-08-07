@@ -1,4 +1,4 @@
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+![3D Portfolio](https://github.com/Zel-hub7/MyPortfolio/blob/main/IMG/port.png?raw=true)
 
 
 <a name="readme-top"></a>
