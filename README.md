@@ -52,7 +52,8 @@ This is my personal portfolio site where You can see every detail you want to kn
 3. Responsive Design: Enjoy a seamless browsing experience on any device, as the portfolio site adapts to various screen sizes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-### 🚀 Live Demo
+### 🚀Live Demo
+<br />
 <a href ="https://zelalem-portfolio.netlify.app/">Live Demo Link</a>
 
 ### setup
